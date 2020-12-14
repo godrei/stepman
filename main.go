@@ -1,6 +1,6 @@
 package main
 
-import "github.com/bitrise-io/stepman/cli"
+import "github.com/godrei/stepman/cli"
 
 func main() {
 	cli.Run()

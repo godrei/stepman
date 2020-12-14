@@ -8,8 +8,8 @@ import (
 
 	"github.com/bitrise-io/go-utils/fileutil"
 	"github.com/bitrise-io/go-utils/pathutil"
-	"github.com/bitrise-io/stepman/models"
-	"github.com/bitrise-io/stepman/stepman"
+	"github.com/godrei/stepman/models"
+	"github.com/godrei/stepman/stepman"
 	log "github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 )

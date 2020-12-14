@@ -19,7 +19,7 @@ import (
 	"github.com/bitrise-io/go-utils/retry"
 	"github.com/bitrise-io/go-utils/urlutil"
 	"github.com/bitrise-io/go-utils/versions"
-	"github.com/bitrise-io/stepman/models"
+	"github.com/godrei/stepman/models"
 	"gopkg.in/yaml.v2"
 )
 

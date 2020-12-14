@@ -9,7 +9,7 @@ import (
 	"github.com/bitrise-io/go-utils/command/git"
 	"github.com/bitrise-io/go-utils/errorutil"
 	"github.com/bitrise-io/go-utils/pathutil"
-	"github.com/bitrise-io/stepman/stepman"
+	"github.com/godrei/stepman/stepman"
 	"github.com/stretchr/testify/require"
 )
 

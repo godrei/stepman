@@ -11,7 +11,7 @@ import (
 	"github.com/bitrise-io/go-utils/fileutil"
 	"github.com/bitrise-io/go-utils/log"
 	"github.com/bitrise-io/go-utils/pathutil"
-	"github.com/bitrise-io/stepman/stepman"
+	"github.com/godrei/stepman/stepman"
 	"github.com/urfave/cli"
 )
 

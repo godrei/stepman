@@ -7,7 +7,7 @@ import (
 	"github.com/google/go-cmp/cmp"
 
 	"github.com/bitrise-io/go-utils/pointers"
-	"github.com/bitrise-io/stepman/models"
+	"github.com/godrei/stepman/models"
 	"github.com/stretchr/testify/require"
 )
 

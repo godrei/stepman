@@ -7,10 +7,10 @@ import (
 	"strings"
 	"time"
 
-	envmanModels "github.com/bitrise-io/envman/models"
 	"github.com/bitrise-io/go-utils/colorstring"
 	"github.com/bitrise-io/go-utils/fileutil"
 	"github.com/bitrise-io/go-utils/pointers"
+	envmanModels "github.com/godrei/envman/models"
 )
 
 const (

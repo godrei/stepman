@@ -20,8 +20,8 @@ import (
 	"github.com/bitrise-io/go-utils/pointers"
 	"github.com/bitrise-io/go-utils/retry"
 	"github.com/bitrise-io/goinp/goinp"
-	"github.com/bitrise-io/stepman/models"
-	"github.com/bitrise-io/stepman/stepman"
+	"github.com/godrei/stepman/models"
+	"github.com/godrei/stepman/stepman"
 	"github.com/urfave/cli"
 )
 

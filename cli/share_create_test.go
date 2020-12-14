@@ -1,8 +1,9 @@
 package cli
 
 import (
-	"github.com/bitrise-io/stepman/models"
 	"testing"
+
+	"github.com/godrei/stepman/models"
 
 	"github.com/stretchr/testify/assert"
 )

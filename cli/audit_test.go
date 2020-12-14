@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/bitrise-io/go-utils/pointers"
-	"github.com/bitrise-io/stepman/models"
+	"github.com/godrei/stepman/models"
 )
 
 // Test - Stepman audit step

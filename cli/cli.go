@@ -5,8 +5,8 @@ import (
 	"os"
 	"path"
 
-	"github.com/bitrise-io/stepman/stepman"
-	"github.com/bitrise-io/stepman/version"
+	"github.com/godrei/stepman/stepman"
+	"github.com/godrei/stepman/version"
 	log "github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 )

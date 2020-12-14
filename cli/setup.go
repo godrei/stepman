@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/bitrise-io/go-utils/command"
-	"github.com/bitrise-io/stepman/stepman"
+	"github.com/godrei/stepman/stepman"
 	log "github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 )

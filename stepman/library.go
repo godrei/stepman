@@ -11,7 +11,7 @@ import (
 	"github.com/bitrise-io/go-utils/log"
 	"github.com/bitrise-io/go-utils/pathutil"
 	"github.com/bitrise-io/go-utils/retry"
-	"github.com/bitrise-io/stepman/models"
+	"github.com/godrei/stepman/models"
 )
 
 const filePathPrefix = "file://"

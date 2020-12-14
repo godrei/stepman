@@ -5,7 +5,7 @@ import (
 
 	"github.com/bitrise-io/colorstring"
 	"github.com/bitrise-io/go-utils/log"
-	"github.com/bitrise-io/stepman/stepman"
+	"github.com/godrei/stepman/stepman"
 	"github.com/urfave/cli"
 )
 
